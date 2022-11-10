@@ -1,7 +1,7 @@
-// Copyright (c) 2021 Michael Zagon All rights reserved
+// Copyright (c) 2022 Cameron Diedrich All rights reserved
 
-// Created by: Michael Zagon
-// Created on: September 2021
+// Created by: Cameron Diedrich
+// Created on: November 2022
 // This program adds each whole number that goes up to the users number
 
 #include <iostream>
